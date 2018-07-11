@@ -1,0 +1,28 @@
+﻿cdb/cards.cdb	9057bf1cf68c54b7bbd8a4223dc3c245
+cdb/pre-release.cdb	0c5c5edc21884355e1dfb8460f659dce
+cdb/pre-update.cdb	d32cc4ea1e956074aa97bc0158cd7269
+cdb (after 2017-12-27)/cards.cdb	7724b3e8b0bbf203827d682039cc6193
+cdb (after 2017-12-27)/fitsetcode.cdb	e1bb94a94e2a08db54c9a9feb5e51191
+cdb (after 2017-12-27)/fixmisc.cdb	0e094b846b75b7c69de724bbd9b17ace
+cdb (after 2017-12-27)/fixot.cdb	27313aa380c0ac4bd2a52dbc12574986
+cdb (after 2017-12-27)/fixstr.cdb	866032073bd96fe4ff1c62a23956cb7a
+cdb (after 2017-12-27)/official.cdb	7eb68eb98eaafa715c8cc55ab5334ef7
+cdb (after 2017-12-27)/prerelease-dbds.cdb	32d21b7f7e23b1d4372bbe3b7a328002
+cdb (after 2017-12-27)/prerelease-exfo.cdb	54b39d8e6a197f31bfaaf3511cad972a
+cdb (after 2017-12-27)/prerelease-flod.cdb	8f8a5e20f8ee8e46227f1113e3ffc3ab
+cdb (after 2017-12-27)/prerelease-lc06.cdb	e0dbfedceac2e394aabc09846bfc70ff
+cdb (after 2017-12-27)/prerelease-lvb1.cdb	9d4520a602cf5d225cc69f1e856c709c
+cdb (after 2017-12-27)/prerelease-pp20.cdb	23226ad45e00c316bbf3563d1290037e
+cdb (after 2017-12-27)/prerelease-sr06.cdb	a13c4a0c413bbec4b90ca3a528279a1c
+cdb (after 2017-12-27)/prerelease-st18.cdb	5ba7102008f9bf0a5ec4cf47661f6703
+cdb (after 2017-12-27)/prerelease-vb20.cdb	f68e917e1dfd719d56db0333c01d823b
+cdb (after 2017-12-27)/prerelease.cdb	33f31add0cad90ac0901e80bffdb9387
+config/config.conf	e88b0d2858d917268d0a21ee36ffd9bd
+config/empty.conf	ecaa88f7fa0bf610a5a26cf545dcd3aa
+config/hint.conf	ecaa88f7fa0bf610a5a26cf545dcd3aa
+config/host.conf	ffc474248aaf30f863f0f9815e830933
+config/hosts.conf	588c416fd99a84ec0d9d8abe24bdbc9e
+config/lflist.conf	72b00b0cca4103519103853f65214474
+config/link.conf	e285eacd7f5ad5393a7eb63c7998d3af
+config/strings.conf	33b54362cf72bdf314eadc9ecf929a65
+config/translation.conf	2323abfa08e0d90502d4ad3bd1ecb6e7
